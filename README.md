@@ -1,38 +1,79 @@
-# 💫 About Me:
-👋 Hi, I’m Varun<br><br>I’m an engineering student and embedded systems enthusiast with a strong focus on STM32, Verilog, and microcontroller-based development. I enjoy designing low-level systems that bridge hardware and software, from bare-metal firmware to digital logic design.<br><br>Alongside embedded development, I’ve also worked on projects involving Machine Learning and OpenCV-based Computer Vision, giving me experience in applying software intelligence to real-world problems.
+<div align="center">
 
+# Hi, I'm Varun 
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Verilog](https://img.shields.io/badge/Verilog-%23000000.svg?style=for-the-badge&logoColor=white)
-![ROS2](https://img.shields.io/badge/ROS%202-%2322314E.svg?style=for-the-badge&logo=ros&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Fusion 360](https://img.shields.io/badge/Fusion%20360-%23F47920.svg?style=for-the-badge&logo=autodesk&logoColor=white)
-![SolidWorks](https://img.shields.io/badge/SolidWorks-%23E2231A.svg?style=for-the-badge&logo=dassaultsystemes&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-%230076A8.svg?style=for-the-badge&logo=mathworks&logoColor=white)
-![KiCad](https://img.shields.io/badge/KiCad-%23314CB6.svg?style=for-the-badge&logo=kicad&logoColor=white)
-![STM32](https://img.shields.io/badge/STM32-%2303234B.svg?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-%2300979D.svg?style=for-the-badge&logo=arduino&logoColor=white)
-![Gazebo](https://img.shields.io/badge/Gazebo-%23000000.svg?style=for-the-badge&logo=ros&logoColor=white)
-![RViz](https://img.shields.io/badge/RViz-%2322314E.svg?style=for-the-badge&logo=ros&logoColor=white)
-![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
-![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+<samp>
+Engineering Student • Embedded Systems Enthusiast
+<br>
+STM32 • Verilog • Digital Design • Robotics
+<br>
+Machine Learning • Computer Vision • ROS 2
+</samp>
 
+<br>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Varun2205&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Varun2205&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Varun2205&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Noto+Sans&weight=500&size=16&duration=5500&pause=1000&color=9E8524&center=true&vCenter=true&width=435&lines=Building+the+Future+One+Transitor+at+a+Time" alt="Typing SVG" /></a>
+
+</div>
+
+<br>
+
+<details>
+<summary><b>📖 More About Me</b></summary>
+
+<br>
+
+I'm an engineering student passionate about embedded systems and low-level development.
+
+- 🔹 STM32 & Bare-Metal Firmware
+- 🔹 Verilog & FPGA/Digital Logic Design
+- 🔹 ROS 2, Gazebo & Robotics
+- 🔹 PCB Design with KiCad
+- 🔹 CAD using Fusion 360 & SolidWorks
+- 🔹 Machine Learning & OpenCV-based Computer Vision
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=Varun2205&icon=0&color=0)](https://visitcount.itsvg.in)
+### 💻 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=c,cpp,python,bash,git" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white"/>
+<img src="https://img.shields.io/badge/Verilog-black?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white"/>
+<img src="https://img.shields.io/badge/KiCad-314CB6?style=for-the-badge&logo=kicad&logoColor=white"/>
+<img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Fusion360-F47920?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SolidWorks-E2231A?style=for-the-badge"/>
+
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Varun2205&theme=tokyonight&hide_border=true&show_icons=true"/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varun2205&theme=tokyonight&hide_border=true&layout=compact"/>
+
+<br>
+
+<img src="https://nirzak-streak-stats.vercel.app/?user=Varun2205&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+<div align="center">
+
+![Visitor Count](https://visitcount.itsvg.in/api?id=Varun2205&icon=0&color=0)
+
+</div>
+
+</details>
