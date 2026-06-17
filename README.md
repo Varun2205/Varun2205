@@ -3,7 +3,7 @@
 # Hi, I'm Varun 
 
 <samp>
-Engineering Student • Embedded Systems Enthusiast
+Engineering Student • Embedded Systems
 <br>
 STM32 • Verilog • Digital Design • Robotics
 <br>
