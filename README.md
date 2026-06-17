@@ -19,7 +19,7 @@ Machine Learning • Computer Vision • ROS 2
 <br>
 
 <details>
-<summary><b>📖 More About Me</b></summary>
+<summary><b>About Me</b></summary>
 
 <br>
 
