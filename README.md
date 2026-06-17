@@ -12,7 +12,7 @@ Machine Learning • Computer Vision • ROS 2
 
 <br>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Noto+Sans&weight=500&size=16&duration=5500&pause=1000&color=9E8524&center=true&vCenter=true&width=435&lines=Building+the+Future+One+Transitor+at+a+Time" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Noto+Sans&weight=500&size=16&duration=5500&pause=1000&color=2F5BCF&center=true&vCenter=true&width=435&lines=Building+the+Future+One+Transitor+at+a+Time" alt="Typing SVG" /></a>
 
 </div>
 
